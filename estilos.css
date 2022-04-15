@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(190, 207, 255);
+    color: rgb(27, 27, 27);
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 24px;
+    text-align: center;
+}
+.botao1,
+.botao2{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16;
+    text-transform: uppercase;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 250px;
+    text-align: center;
+    
+}
+.botao1{
+    background-color: red;
+    border-color: black;
+    color: blue;
+}
+.botao2{
+    background-color: blue;
+    border-color: black;
+    color: red;
+}
