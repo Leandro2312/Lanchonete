@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,15 +7,15 @@
 <title> Cadastro de Usuário </title>
 </head>
 <body>
-<form method="post" action="cadastro-produtos.php">
+<form action="cadastro-produtos.php" method="post">
     Produto:
-    <input name="Produto" id="produto">
+    <input name="produto" id = "produto">
     <br>
     Preço:    
-    <input name="preco" id="preco">
+    <input name="preco" id = "preco">
     <br>
     Ingredientes:
-    <textarea name="ingredientes" id="ingredientes"></textarea>
+    <textarea name="ingredientes" id = "ingredientes"></textarea>
     <br>
     <button type ="submit">Salvar</button>
 </form>
