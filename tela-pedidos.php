@@ -13,7 +13,7 @@
         Produto:<input name = "produto" id = "produtor"><br>
         Total: <input name = "total" id="total"><br>
         Observações:<br>
-        <textarea name="Observacoes" id="observacoes"></textarea><br>
+        <textarea name="observacoes" id="observacoes"></textarea><br>
         Entrega ou Retirada? <input name = "envio" id ="envio"><br>
         Informações do Cliente:<br>
         <textarea name="info" id = "info"></textarea><br>

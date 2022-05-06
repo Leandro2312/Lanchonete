@@ -11,5 +11,8 @@
     <h1>SGLanchonete 1.0</h1>
     <a href="tela-produtos.php" class="botao1">Cadastro de Produtos</a>
     <a href="tela-pedidos.php" class="botao2">Cadastro de Pedidos</a>
+    <br>
+    <a href="lista-produtos.php" class = "botao1">Listar produtos</a>
+    <a href="lista-pedidos.php" class = "botao2">Listar pedidos</a>
 </body>
 </html>
